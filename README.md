@@ -1,3 +1,8 @@
+![movies-laravel-ajax](https://github.com/RAZKIBADR3/movies-laravel-ajax/assets/96654573/466f47c1-2c42-4cb8-8b12-3216c57a7712)
+![movies-laravel-ajax2](https://github.com/RAZKIBADR3/movies-laravel-ajax/assets/96654573/bf9b02f0-f6e0-416f-8b4c-cdaba20209f5)
+![movies-laravel-ajax3](https://github.com/RAZKIBADR3/movies-laravel-ajax/assets/96654573/8ea0649a-1b60-450e-940b-9cd61030b6c0)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
